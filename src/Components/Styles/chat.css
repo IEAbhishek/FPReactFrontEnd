@@ -1,0 +1,91 @@
+.react-chatbot-kit-chat-container {
+    
+}
+
+/* inner box*/
+.react-chatbot-kit-chat-inner-container {
+    
+}
+/* Conversation with bot line (header) */
+.react-chatbot-kit-chat-header {
+    font-style: italic;
+    background-color: thistle;
+}
+.react-chatbot-kit-chat-input-container {
+    
+}
+/* box below conversion with bot*/
+.react-chatbot-kit-chat-message-container {
+    background-color: antiquewhite;
+}
+/* Write your message here box */
+.react-chatbot-kit-chat-input {
+    background-color: white;
+}
+
+.react-chatbot-kit-chat-input-form {
+    
+}
+/* placeholder text for "write your message here" */
+.react-chatbot-kit-chat-input::placeholder {
+    
+}
+/* send button */
+.react-chatbot-kit-chat-btn-send {
+    
+}
+/* send icon (telegram mark) */
+.react-chatbot-kit-chat-btn-send-icon {
+
+}
+/* the background of chatbot response behind B */
+.react-chatbot-kit-chat-bot-message-container {
+    
+}
+/* the circle of the chatbot response around B */
+.react-chatbot-kit-chat-bot-avatar-container {
+    
+}
+/* the B icon of chatbot response */
+.react-chatbot-kit-chat-bot-avatar-icon {
+    
+}
+/* the B itself of chatbot response */
+.react-chatbot-kit-chat-bot-avatar-letter {
+    
+}
+/* text reply from chatbot (the message from bot) */
+.react-chatbot-kit-chat-bot-message {
+    
+}
+/* the arrow for the message sent from chatbot */
+.react-chatbot-kit-chat-bot-message-arrow {
+    
+}
+
+.react-chatbot-kit-chat-bot-loading-icon-container {
+}
+
+.chatbot-loader-container {
+}
+
+#chatbot-loader #chatbot-loader-dot1 {
+}
+
+#chatbot-loader #chatbot-loader-dot2 {
+}
+
+#chatbot-loader #chatbot-loader-dot3 {
+}
+
+.react-chatbot-kit-error {
+}
+
+.react-chatbot-kit-error-container {
+}
+
+.react-chatbot-kit-error-header {
+}
+
+.react-chatbot-kit-error-docs {
+}

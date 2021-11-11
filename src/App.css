@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: url('bg.png');
+}
+
+.container{
+  background-color: rgb(166, 248, 248);
+  border-radius: 15px ;
+}
+
+
+.title{
+  font-size: 50px;
+  font-family: roboto;
+}
+
+nav {
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  min-height: 12vh;
+  background-color: rgb(173, 215, 250);
+  color: rgb(15, 39, 39);
+}
+
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+
+}
+
+
+.login{
+  width: 40%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+form,.form{ 
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 7%;
+  background-color: rgb(166, 248, 248);
+}
+
+li{
+  font-size: 18px;
+  text-decoration: none ; 
+}
+
+
+
+.email{
+  width: 200px;
+}
+
+li:hover{
+  font-size: 22px;
+  color: black; 
+}
+
+.image{
+  border-radius: 50%;
+}
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 20px;
+}
+
+th {
+  background-color: rgb(117, 201, 250);
+}
+
+td {
+  background-color: rgb(205, 235, 253);
+}
+
